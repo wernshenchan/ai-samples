@@ -1,0 +1,25 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/private/tmp/claude-501/-Users-wern-Desktop-Lucid-Asia-Claude-Code/1cbfaf7d-3b1c-4c68-8ff5-07ba4463323d/scratchpad/edvertica-samples-deploy"
+publishOrigin = "default"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
